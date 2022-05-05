@@ -1,2 +1,11 @@
+# dependencies
 node_modules
+
+# IDE configurations
+.idea
+
+# misc
+.DS_Store
+
+# Library versions
 yarn.lock
